@@ -11,7 +11,7 @@ it should be safe to use in production environments after thorough testing.
 
 TLS Certificates
 ----------------
-See [http://www.bite-code.com/2015/06/25/tls-mutual-auth-in-golang/] for more
+See http://www.bite-code.com/2015/06/25/tls-mutual-auth-in-golang/ for more
 details about generating certs.
 
 [Easy-RSA](https://github.com/OpenVPN/easy-rsa) is another good solution.
